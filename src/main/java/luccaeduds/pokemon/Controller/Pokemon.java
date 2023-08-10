@@ -22,4 +22,3 @@ public class Pokemon {
     private List<String> evolucoes = new ArrayList<>();
     private List<String> locais = new ArrayList<>();
 }
-
