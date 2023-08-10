@@ -10,8 +10,8 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import luccaeduds.pokemon.Controller.Buscas;
-import luccaeduds.pokemon.Controller.Pokemon;
+import luccaeduds.pokemon.Controllers.Buscas;
+import luccaeduds.pokemon.Models.Pokemon;
 
 @SpringBootTest(classes = PokemonApplicationTests.class)
 class PokemonApplicationTests {
